@@ -1,6 +1,6 @@
 # README
 
-Custom uthentication rails app for api only projects where the front end is done in a separated front end app or mobile app.
+Rails API app for help_this_pal_client
 
 
 # Setup
